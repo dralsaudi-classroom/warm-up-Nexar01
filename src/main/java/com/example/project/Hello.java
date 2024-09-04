@@ -1,4 +1,4 @@
-opackage com.example.project;
+package com.example.project;
 
 public class Hello {
 
